@@ -196,7 +196,7 @@ export default function App() {
         <div className="card">
 
           <div className="header">
-            <div className="badge">Bac Pro MCV · Lycée - Jean-Jaures - Ausson</div>
+            <div className="badge">Bac Pro MCV · Lycée - Jean-Jaures - Aubusson</div>
             <h1>Évaluation — Sketch de vente</h1>
             <p className="subtitle">Grille personnalisable · Aubusson, Creuse</p>
           </div>
